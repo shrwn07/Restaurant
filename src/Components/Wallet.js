@@ -16,7 +16,8 @@ const Wallet = () => {
             const myAddress = JSON.parse(address);
             setMyAdd(myAddress);
           }
-    },[])
+console.log(total)
+    },[total])
 
     const payNowHandler =() =>{
         setPayNow(true)

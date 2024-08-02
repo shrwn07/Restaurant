@@ -60,7 +60,7 @@ const Cart = () => {
   //   return <
   // }
   const payNowHandler= () =>{
-    navigate('/address')
+    navigate('/wallet')
     setCartInProducts([])
     setCartProducts([])
   }
