@@ -10,7 +10,7 @@ import { useGlobalContext } from "../contextApi/Context";
 function Header() {
   // const loginNavigation =  useNavigate();
   // const registrationNavigation = useNavigate();
-  
+
   const { loginWithRedirect, logout, user, isAuthenticated, isLoading } =
     useAuth0();
 
@@ -66,7 +66,7 @@ function Header() {
           </button>
         )}
 
-        <Link to="/register" className='text-white font-semibold bg-[#0ab47f] h-10 px-1 md:px-4 rounded-md'>Registration</Link>
+        <Link to="/register" className='text-white font-semibold bg-[#0ab47f] h-10 px-1 md:px-4 rounded-md flex justify-center items-center'>Registration</Link>
       </Box>
     </Box>
   );

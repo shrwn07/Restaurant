@@ -12,7 +12,7 @@ import Wallet from "./Components/Wallet";
 function App() {
   return (
     <div className="App overflow-x-hiddenApp bg-[#232323]">
-      <div className="w-full fixed top-0">
+      <div className="">
         <Header />
       </div>
       <Routes>
