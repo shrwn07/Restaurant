@@ -1,10 +1,13 @@
 import { createContext, useContext, useEffect, useState } from "react";
 import axios from "axios";
+import {MenuData} from '../data/menuData'
+
 
 const RestContext = createContext();
 
 const RestProvider = ({ children }) => {
-  const [products, setProducts] = useState([]);
+  const [products, setProducts] = useState(MenuData);
+  const [pageProducts,setPageProducts] = useState([]);  //pagination product
   const [page,setPage] = useState(1);
   const [cartProducts, setCartProducts] = useState([]);
   const [cartInProducts, setCartInProducts] = useState([]);
@@ -14,14 +17,15 @@ const RestProvider = ({ children }) => {
   const [checkoutBtn, setCheckOutBtn] = useState(false);
 
   useEffect(()=>{
-    async function fetchData(){
-      try {
-        const response =  await axios.get("http://localhost:3001/api/menu")
-        setProducts(displayItems(response.data,page));
-      } catch (error) {
-        console.error({messege : error});
-      }
-    }
+    // async function fetchData(){
+    //   try {
+    //     const response =  await axios.get("http://localhost:3001/api/menu")
+    //     setProducts(displayItems(response.data,page));
+    //   } catch (error) {
+    //     console.error({messege : error});
+    //   }
+    // }
+    setPageProducts(displayItems(products,page));
     function displayItems(data,page){
       let itemPerPage = 16;
       const startIndex = (page - 1) * itemPerPage;
@@ -29,7 +33,7 @@ const RestProvider = ({ children }) => {
       let slicedData = data.slice(startIndex,lastIndex);
       return slicedData;
     }
-    fetchData();
+    // fetchData();
 
   },[page])
 
@@ -64,7 +68,8 @@ const RestProvider = ({ children }) => {
         filterData,
         setFilterData,
         checkoutBtn, setCheckOutBtn,
-        page,setPage
+        page,setPage,
+        pageProducts,setPageProducts
       }}
     >
       {children}

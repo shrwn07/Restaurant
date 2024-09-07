@@ -9,7 +9,7 @@ import DetailForm from "./DetailForm";
 
 const Cards = () => {
   const { products } = useGlobalContext();
-  const { cartProducts, setCartProducts, setQuantity, filterData } =
+  const { cartProducts, setCartProducts, setQuantity, filterData, pageProducts} =
     useGlobalContext();
   // const navigate = useNavigate();
   const { isAuthenticated } = useAuth0();
@@ -39,7 +39,7 @@ const Cards = () => {
       }
     
   };
-  if (!Array.isArray(products) || products.length === 0) {
+  if (!Array.isArray(pageProducts) || pageProducts.length === 0) {
     return (
       <div className="h-screen w-full flex justify-center items-center">
         <CircularProgress />
@@ -48,7 +48,7 @@ const Cards = () => {
   }
   return (
     <div className="text-white p-4 flex justify-center md:justify-between items-center gap-6 mt-4 flex-wrap md:px-10">
-      {products.map((items) => (
+      {pageProducts.map((items) => (
         <div
           className="h-96 w-72 bg-slate-100 rounded-md overflow-hidden hover:scale-110"
           key={items.id}
