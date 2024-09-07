@@ -1,0 +1,1502 @@
+[
+    {
+      "id": "1",
+      "dish_name": "Samosa",
+      "category": "Appetizer",
+      "description": "A popular deep-fried snack filled with spiced potatoes and peas.",
+      "images": [
+        "https://plus.unsplash.com/premium_photo-1695297516142-398762d80f66?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://unsplash.com/photos/a-plate-of-food-with-some-dipping-sauce-UqdLafbh6bc",
+        "https://unsplash.com/photos/a-plate-of-food-with-some-dipping-sauce-UqdLafbh6bc",
+        "https://unsplash.com/photos/a-plate-of-food-on-a-table-with-a-cup-of-green-tea-ujMAcKPBa4Q"
+      ],
+      "price": 15,
+      "rating": 4.5,
+      "quantity": 1
+    },
+    {
+      "id": "2",
+      "dish_name": "Pakora",
+      "category": "Appetizer",
+      "description": "Crispy fritters made with vegetables and chickpea flour.",
+      "images": [
+        "https://images.unsplash.com/photo-1631788012420-a0d6a3cfcdfb?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://unsplash.com/photos/a-pile-of-fried-chicken-aLeMXWQJApY",
+        "https://unsplash.com/photos/brown-and-green-food-in-brown-plastic-container-iGkEDLE5-iQ",
+        "https://unsplash.com/photos/a-bowl-of-fried-food-with-a-lemon-wedge-5kelQd63isg"
+      ],
+      "price": 40,
+      "rating": 4.6,
+      "quantity": 1
+    },
+    {
+      "id": "3",
+      "dish_name": "Aloo Tikki",
+      "category": "Appetizer",
+      "description": "Spiced potato patties served with chutney.",
+      "images": [
+        "https://thumbs.dreamstime.com/z/aloo-tikki-chat-28309539.jpg?w=768",
+        "https://www.dreamstime.com/vibrant-image-aloo-chops-also-referred-to-as-aloor-chop-take-center-stage-nestled-pristine-white-plate-against-image313944217",
+        "https://www.dreamstime.com/stock-images-aloo-tikki-chat-image24156764",
+        "https://www.dreamstime.com/stock-photo-aloo-tikki-potato-patties-chaat-spicy-snack-prepared-fried-potatoes-garnished-tomato-sauce-mint-chutney-onions-image48538632"
+      ],
+      "price": 35,
+      "rating": 4.7,
+      "quantity": 1
+    },
+    {
+      "id": "4",
+      "dish_name": "Dahi Puri",
+      "category": "Appetizer",
+      "description": "Crispy puris filled with yogurt, chutney, and spices.",
+      "images": [
+        "https://thumbs.dreamstime.com/z/dahi-puri-dahi-papdi-spicy-indian-snack-called-87627868.jpg?ct=jpeg",
+        "https://www.dreamstime.com/dahi-puri-dahi-papdi-spicy-indian-snack-called-dahi-puri-great-street-food-you-can-find-everywhere-beaches-image158573857",
+        "https://www.dreamstime.com/stock-photos-dahi-puri-image24578783",
+        "https://www.dreamstime.com/stock-photos-dahi-puri-spicy-indian-snack-called-white-background-image33519083"
+      ],
+      "price": 45,
+      "rating": 4.8,
+      "quantity": 1
+    },
+    {
+      "id": "5",
+      "dish_name": "Paneer Tikka",
+      "category": "Appetizer",
+      "description": "Marinated paneer cubes grilled to perfection.",
+      "images": [
+        "https://thumbs.dreamstime.com/z/easy-quick-paneer-tikka-culinary-journey-to-india-ai-created-content-design-background-instagram-facebook-wall-painting-324450957.jpg?ct=jpeg",
+        "https://www.dreamstime.com/royalty-free-stock-images-paneer-tikka-image12219389",
+        "https://www.dreamstime.com/royalty-free-stock-photos-paneer-tikka-image12219388",
+        "https://www.dreamstime.com/stock-photos-paneer-tikka-kebab-tandoori-indian-cheese-skewers-served-slate-lemon-chili-sauce-cucumber-red-onion-yoghurt-image31969873"
+      ],
+      "price": 90,
+      "rating": 4.8,
+      "quantity": 1
+    },
+    {
+      "id": "6",
+      "dish_name": "Chilli Paneer",
+      "category": "Appetizer",
+      "description": "Spicy and tangy paneer cubes sautéed with vegetables.",
+      "images": [
+        "https://www.shutterstock.com/shutterstock/photos/1876336663/display_1500/stock-photo-paneer-chilli-is-indo-chinese-cuisine-dish-paneer-cubes-tossed-with-tomatoes-onions-spring-1876336663.jpg",
+        "https://www.shutterstock.com/image-photo/chilli-paneer-spicy-cottage-cheese-served-1941583000",
+        "https://www.shutterstock.com/image-photo/chilli-paneer-spicy-cottage-cheese-served-655049167",
+        "https://www.shutterstock.com/image-photo/chilli-paneer-spicy-cottage-cheese-served-655049245"
+      ],
+      "price": 80,
+      "rating": 4.7,
+      "quantity": 1
+    },
+    {
+      "id": "7",
+      "dish_name": "Hara Bhara Kabab",
+      "category": "Appetizer",
+      "description": "Green vegetable patties made with spinach and peas.",
+      "images": [
+        "https://www.shutterstock.com/shutterstock/photos/1882032958/display_1500/stock-photo-hara-bhara-kabab-or-kebab-is-indian-vegetarian-snack-recipe-served-with-green-mint-chutney-over-1882032958.jpg",
+        "https://www.shutterstock.com/image-photo/hara-bhara-kabab-kebab-indian-vegetarian-1154072143",
+        "https://www.shutterstock.com/image-photo/hara-bhara-kabab-green-peas-pakora-652192888",
+        "https://www.shutterstock.com/image-photo/hara-bhara-kabab-kebab-indian-vegetarian-1881659101"
+      ],
+      "price": 70,
+      "rating": 4.6,
+      "quantity": 1
+    },
+    {
+      "id": "8",
+      "dish_name": "Vegetable Spring Roll",
+      "category": "Appetizer",
+      "description": "Crispy rolls stuffed with mixed vegetables.",
+      "images": [
+        "https://www.shutterstock.com/shutterstock/photos/1790137259/display_1500/stock-photo-fried-spring-rolls-on-a-white-plate-and-spicy-sauce-1790137259.jpg",
+        "https://www.shutterstock.com/image-photo/delicious-fried-spring-rolls-sweet-chili-2021844722",
+        "https://www.shutterstock.com/image-photo/fried-chinese-traditional-spring-rolls-food-1993849457",
+        "https://www.shutterstock.com/image-photo/crispy-vegetarian-spring-rolls-on-plate-2149782999"
+      ],
+      "price": 60,
+      "rating": 4.5,
+      "quantity": 1
+    },
+    {
+      "id": "9",
+      "dish_name": "Pani Puri",
+      "category": "Appetizer",
+      "description": "Crispy puris filled with spicy and tangy water.",
+      "images": [
+        "https://www.shutterstock.com/shutterstock/photos/2230877433/display_1500/stock-photo-panipuri-or-fuchka-fhuchka-or-gupchup-or-golgappa-or-pani-ke-patake-is-a-type-of-snack-that-2230877433.jpg",
+        "https://www.shutterstock.com/image-photo/panipuri-fuchka-fhuchka-gupchup-golgappa-pani-2230877431",
+        "https://www.shutterstock.com/image-photo/panipuri-fuchka-fhuchka-gupchup-golgappa-pani-2076945667",
+        "https://www.shutterstock.com/image-photo/panipuri-fuchka-fhuchka-gupchup-golgappa-pani-2230877435"
+      ],
+      "price": 30,
+      "rating": 4.9,
+      "quantity": 1
+    },
+    {
+      "id": "10",
+      "dish_name": "Dhokla",
+      "category": "Appetizer",
+      "description": "Steamed savory cake made from fermented rice and chickpea batter.",
+      "images": [
+        "https://www.shutterstock.com/shutterstock/photos/1777182518/display_1500/stock-photo-gujarati-khaman-dhokla-made-using-chana-dal-served-with-green-chutney-selective-focus-1777182518.jpg",
+        "https://www.shutterstock.com/image-photo/indian-dish-khaman-dhokla-763124545",
+        "https://www.shutterstock.com/image-photo/gujarati-khaman-dhokla-made-using-chana-1785410927",
+        "https://www.shutterstock.com/image-photo/popular-indian-gujarati-dish-traditional-street-1637264764"
+      ],
+      "price": 40,
+      "rating": 4.8,
+      "quantity": 1
+    },
+    {
+      "id": "11",
+      "dish_name": "Paneer Butter Masala",
+      "category": "Main Course - Vegetarian",
+      "description": "Paneer cubes cooked in a rich and creamy tomato-based gravy.",
+      "images": [
+        "https://www.shutterstock.com/shutterstock/photos/2069835605/display_1500/stock-photo-paneer-butter-masala-or-cheese-cottage-curry-served-with-rice-and-laccha-paratha-2069835605.jpg",
+        "https://www.shutterstock.com/image-photo/paneer-butter-masala-cheese-cottage-curry-2069835602",
+        "https://www.shutterstock.com/image-photo/paneer-butter-masala-cheese-cottage-curry-1204903552",
+        "https://www.shutterstock.com/image-photo/famous-indian-dish-paneer-butter-masala-529449724"
+      ],
+      "price": 212,
+      "rating": 4.8,
+      "quantity": 1
+    },
+    {
+      "id": "12",
+      "dish_name": "Palak Paneer",
+      "category": "Main Course - Vegetarian",
+      "description": "Paneer cubes cooked with spinach puree and spices.",
+      "images": [
+        "https://www.shutterstock.com/shutterstock/photos/2172025185/display_1500/stock-photo-palak-paneer-served-with-chapati-and-basmati-rice-isolated-on-white-background-indian-vegetarian-2172025185.jpg",
+        "https://www.shutterstock.com/shutterstock/photos/1995053024/display_1500/stock-photo-palak-paneer-with-chapati-on-white-background-indian-vegetarian-cuisine-made-of-spinach-and-paneer-1995053024.jpg",
+        "https://www.shutterstock.com/shutterstock/photos/2105220395/display_1500/stock-photo-palak-paneer-served-with-basmati-rice-indian-vegetarian-cuisine-of-spinach-and-paneer-cheese-copy-2105220395.jpg",
+        "https://www.shutterstock.com/shutterstock/photos/1941625900/display_1500/stock-photo-palak-paneer-served-with-chapati-and-basmati-rice-on-grey-stone-background-indian-vegetarian-food-1941625900.jpg"
+      ],
+      "price": 180,
+      "rating": 4.7,
+      "quantity": 1
+    },
+    {
+      "id": "13",
+      "dish_name": "Chole Bhature",
+      "category": "Main Course - Vegetarian",
+      "description": "Spicy chickpea curry served with deep-fried bread.",
+      "images": [
+        "https://www.shutterstock.com/shutterstock/photos/1867969540/display_1500/stock-photo-chole-bhature-spicy-chick-peas-curry-also-known-as-chole-or-channa-masala-is-traditional-north-1867969540.jpg",
+        "https://www.shutterstock.com/shutterstock/photos/1394497862/display_1500/stock-photo-chole-bhatura-chature-vegetable-dish-indian-roti-puff-thali-1394497862.jpg",
+        "https://www.shutterstock.com/shutterstock/photos/1952327722/display_1500/stock-photo-chole-bhature-is-an-indian-dish-which-is-very-famous-in-north-india-for-its-delicious-taste-in-the-1952327722.jpg",
+        "https://www.shutterstock.com/shutterstock/photos/1867962124/display_1500/stock-photo-peshwari-chole-bhature-spicy-chick-peas-curry-also-known-as-chole-or-channa-masala-usually-served-1867962124.jpg"
+      ],
+      "price": 100,
+      "rating": 4.9,
+      "quantity": 1
+    },
+    {
+      "id": "14",
+      "dish_name": "Rajma Chawal",
+      "category": "Main Course - Vegetarian",
+      "description": "Red kidney bean curry served with steamed rice.",
+      "images": [
+        "https://www.shutterstock.com/shutterstock/photos/1964675425/display_1500/stock-photo-rajma-chawal-is-a-popular-north-indian-food-rajma-is-a-socked-red-kidney-beans-cooked-with-onions-1964675425.jpg",
+        "https://www.shutterstock.com/shutterstock/photos/2091869017/display_1500/stock-photo-homemade-bolognese-or-rag-sauce-served-in-rustic-bowl-on-dark-wood-directly-above-2091869017.jpg",
+        "https://www.shutterstock.com/shutterstock/photos/2423377725/display_1500/stock-photo-chili-con-carne-traditional-mexican-minced-meat-and-vegetables-stew-in-tomato-sauce-in-a-cast-2423377725.jpg",
+        "https://www.shutterstock.com/shutterstock/photos/716042158/display_1500/stock-photo-chili-con-carne-716042158.jpg"
+      ],
+      "price": 90,
+      "rating": 4.6,
+      "quantity": 1
+    },
+    {
+      "id": "15",
+      "dish_name": "Baingan Bharta",
+      "category": "Main Course - Vegetarian",
+      "description": "Smoky mashed eggplant cooked with onions and tomatoes.",
+      "images": [
+        "https://www.shutterstock.com/shutterstock/photos/1837782364/display_1500/stock-photo-baingan-bharta-or-roasted-mashed-eggplant-in-black-bowl-on-dark-slate-table-top-bhurta-is-indian-1837782364.jpg",
+        "https://www.shutterstock.com/shutterstock/photos/640922899/display_1500/stock-photo-baigan-bharta-in-hindi-or-vangyache-bharit-in-marathi-is-a-roasted-and-mashed-eggplant-fry-or-curry-640922899.jpg",
+        "https://www.shutterstock.com/shutterstock/photos/640923076/display_1500/stock-photo-baigan-bharta-in-hindi-or-vangyache-bharit-in-marathi-is-a-roasted-and-mashed-eggplant-fry-or-curry-640923076.jpg",
+        "https://www.shutterstock.com/shutterstock/photos/640922947/display_1500/stock-photo-baigan-bharta-in-hindi-or-vangyache-bharit-in-marathi-is-a-roasted-and-mashed-eggplant-fry-or-curry-640922947.jpg"
+      ],
+      "price": 50,
+      "rating": 4.5,
+      "quantity": 1
+    },
+    {
+      "id": "16",
+      "dish_name": "Malai Kofta",
+      "category": "Main Course - Vegetarian",
+      "description": "Vegetable dumplings in a rich and creamy gravy.",
+      "images": [
+        "https://www.shutterstock.com/shutterstock/photos/1711883581/display_1500/stock-photo-malai-kofta-curry-in-black-bowl-at-dark-slate-background-malai-kofta-is-indian-cuisine-dish-with-1711883581.jpg",
+        "https://www.shutterstock.com/shutterstock/photos/1708001731/display_1500/stock-photo-malai-kofta-curry-in-black-bowl-at-dark-slate-background-malai-kofta-is-indian-cuisine-dish-with-1708001731.jpg",
+        "https://www.shutterstock.com/shutterstock/photos/1717752919/display_1500/stock-photo-malai-kofta-curry-in-black-bowl-at-dark-slate-background-malai-kofta-is-indian-cuisine-dish-with-1717752919.jpg",
+        "https://www.shutterstock.com/shutterstock/photos/1631629432/display_1500/stock-photo-cheese-ball-dipped-in-creamy-gravy-or-malai-kofta-1631629432.jpg"
+      ],
+      "price": 42,
+      "rating": 4.8,
+      "quantity": 1
+    },
+    {
+      "id": "17",
+      "dish_name": "Aloo Gobi",
+      "category": "Main Course - Vegetarian",
+      "description": "Potato and cauliflower curry cooked with spices.",
+      "images": [
+        "https://www.shutterstock.com/shutterstock/photos/2258181675/display_1500/stock-photo-aloo-gobi-traditional-indian-dish-with-cauliflower-and-potato-2258181675.jpg",
+        "https://www.shutterstock.com/shutterstock/photos/2252685973/display_1500/stock-photo-aloo-gobi-traditional-indian-dish-with-cauliflower-and-potato-2252685973.jpg",
+        "https://www.shutterstock.com/shutterstock/photos/2252686003/display_1500/stock-photo-aloo-gobi-traditional-indian-dish-with-cauliflower-and-potato-2252686003.jpg",
+        "https://www.shutterstock.com/shutterstock/photos/2255351799/display_1500/stock-photo-aloo-gobi-traditional-indian-dish-with-cauliflower-and-potato-2255351799.jpg"
+      ],
+      "price": 99,
+      "rating": 4.6,
+      "quantity": 1
+    },
+    {
+      "id": "18",
+      "dish_name": "Dal Makhani",
+      "category": "Main Course - Vegetarian",
+      "description": "Creamy black lentils cooked with butter and cream.",
+      "images": [
+        "https://www.shutterstock.com/shutterstock/photos/2112038774/display_1500/stock-photo-dal-makhani-or-dal-makhni-is-a-north-indian-recipe-served-in-bowl-selective-focus-2112038774.jpg",
+        "https://www.shutterstock.com/shutterstock/photos/774184771/display_1500/stock-photo-dal-makhani-or-daal-makhni-774184771.jpg",
+        "https://www.shutterstock.com/shutterstock/photos/418522324/display_1500/stock-photo-dal-makhani-or-daal-makhni-served-in-a-wooden-bowl-isolated-418522324.jpg",
+        "https://www.shutterstock.com/shutterstock/photos/419220688/display_1500/stock-photo-dal-makhani-or-daal-makhni-served-in-a-wooden-bowl-selective-focus-419220688.jpg"
+      ],
+      "price": 180,
+      "rating": 4.7,
+      "quantity": 1
+    },
+    {
+      "id": "19",
+      "dish_name": "Shahi Paneer",
+      "category": "Main Course - Vegetarian",
+      "description": "Paneer cubes cooked in a rich and creamy cashew-based gravy.",
+      "images": [
+        "https://www.shutterstock.com/shutterstock/photos/1784657447/display_1500/stock-photo-paneer-butter-masala-or-cheese-cottage-curry-popular-indian-lunch-dinner-menu-served-in-a-1784657447.jpg",
+        "https://www.shutterstock.com/shutterstock/photos/1141192097/display_1500/stock-photo-paneer-butter-masala-also-known-as-panir-makhani-or-makhanwala-served-in-a-ceramic-or-terracotta-1141192097.jpg",
+        "https://www.shutterstock.com/shutterstock/photos/1141195631/display_1500/stock-photo-paneer-butter-masala-also-known-as-panir-makhani-or-makhanwala-served-in-a-ceramic-or-terracotta-1141195631.jpg",
+        "https://www.shutterstock.com/shutterstock/photos/1141209536/display_1500/stock-photo-paneer-butter-masala-also-known-as-panir-makhani-or-makhanwala-served-in-a-ceramic-or-terracotta-1141209536.jpg"
+      ],
+      "price": 120,
+      "rating": 4.8,
+      "quantity": 1
+    },
+    {
+      "id": "20",
+      "dish_name": "Bhindi Masala",
+      "category": "Main Course - Vegetarian",
+      "description": "Spicy okra stir-fry cooked with onions and tomatoes.",
+      "images": [
+        "https://www.shutterstock.com/shutterstock/photos/1790859812/display_1500/stock-photo-bharwa-masala-bhindi-or-stuffed-okra-is-an-indian-main-course-vegetable-recipe-made-using-ladies-1790859812.jpg",
+        "https://www.shutterstock.com/shutterstock/photos/1790859806/display_1500/stock-photo-bharwa-masala-bhindi-or-stuffed-okra-is-an-indian-main-course-vegetable-recipe-made-using-ladies-1790859806.jpg",
+        "https://www.shutterstock.com/shutterstock/photos/682027489/display_1500/stock-photo-indian-style-masala-bhindi-or-okra-also-known-as-ladyfinger-served-in-a-bowl-over-moody-background-682027489.jpg",
+        "https://www.shutterstock.com/shutterstock/photos/682334932/display_1500/stock-photo-indian-style-masala-sabji-or-sabzi-of-fried-bhindi-or-okra-also-known-as-ladyfinger-served-in-a-682334932.jpg"
+      ],
+      "price": 90,
+      "rating": 4.6,
+      "quantity": 1
+    },
+    {
+      "id": "21",
+      "dish_name": "Matar Paneer",
+      "category": "Main Course - Vegetarian",
+      "description": "Paneer and green peas cooked in a tomato-based gravy.",
+      "images": [
+        "https://media.istockphoto.com/id/1077980738/photo/green-peas-or-matar-paneer-curry-recipe-served-in-a-bowl-selective-focus.jpg?s=1024x1024&w=is&k=20&c=huM_B1l5YiWjteWhL8jZvGUpSAHfVIYi4wIsXaKhIpQ=",
+        "https://example.com/images/matar_paneer2.jpg",
+        "https://example.com/images/matar_paneer3.jpg",
+        "https://example.com/images/matar_paneer4.jpg"
+      ],
+      "price": 190,
+      "rating": 4.7,
+      "quantity": 1
+    },
+    {
+      "id": "22",
+      "dish_name": "Kadai Paneer",
+      "category": "Main Course - Vegetarian",
+      "description": "Paneer cooked with bell peppers and onions in a spicy gravy.",
+      "images": [
+        "https://media.istockphoto.com/id/851888774/photo/palak-paneer.jpg?s=2048x2048&w=is&k=20&c=2P9JdW2_LMaTlp8nPEoSKVUEpUJ84Y8f_td57p_NGbA=",
+        "https://example.com/images/kadai_paneer2.jpg",
+        "https://example.com/images/kadai_paneer3.jpg",
+        "https://example.com/images/kadai_paneer4.jpg"
+      ],
+      "price": 180,
+      "rating": 4.8,
+      "quantity": 1
+    },
+    {
+      "id": "23",
+      "dish_name": "Mixed Vegetable Curry",
+      "category": "Main Course - Vegetarian",
+      "description": "A medley of vegetables cooked in a spicy and flavorful gravy.",
+      "images": [
+        "https://media.istockphoto.com/id/1278584350/photo/veg-kolhapuri-in-black-bowl-on-dark-slate-table-top-indian-vegetable-curry-dish-vegetarian.jpg?s=1024x1024&w=is&k=20&c=a6oLSHgMHV0qC3sl_WWiGRwNTCLtdBLYGSmcbpeIm_0=",
+        "https://example.com/images/mixed_vegetable_curry2.jpg",
+        "https://example.com/images/mixed_vegetable_curry3.jpg",
+        "https://example.com/images/mixed_vegetable_curry4.jpg"
+      ],
+      "price": 190,
+      "rating": 4.6,
+      "quantity": 1
+    },
+    {
+      "id": "24",
+      "dish_name": "Aloo Matar",
+      "category": "Main Course - Vegetarian",
+      "description": "Potato and green peas curry cooked with spices.",
+      "images": [
+        "https://media.istockphoto.com/id/498120502/photo/aloo-mutter-curry-indian-food.jpg?s=1024x1024&w=is&k=20&c=0o4G1Fm3z3UafvwJILbQ9MCZh3BQ-Rp7JjmZGWooJfg=",
+        "https://example.com/images/aloo_matar2.jpg",
+        "https://example.com/images/aloo_matar3.jpg",
+        "https://example.com/images/aloo_matar4.jpg"
+      ],
+      "price": 80,
+      "rating": 4.5,
+      "quantity": 1
+    },
+    {
+      "id": "25",
+      "dish_name": "Navratan Korma",
+      "category": "Main Course - Vegetarian",
+      "description": "A rich and creamy curry made with nine types of vegetables.",
+      "images": [
+        "https://media.istockphoto.com/id/1341847204/photo/navratan-korma.jpg?s=1024x1024&w=is&k=20&c=GTsQQD4PZw8Ma6pCT6l_2iujuDFQ_S2hINs-5nMKJBs=",
+        "https://example.com/images/navratan_korma2.jpg",
+        "https://example.com/images/navratan_korma3.jpg",
+        "https://example.com/images/navratan_korma4.jpg"
+      ],
+      "price": 212,
+      "rating": 4.8,
+      "quantity": 1
+    },
+    {
+      "id": "26",
+      "dish_name": "Dum Aloo",
+      "category": "Main Course - Vegetarian",
+      "description": "Potatoes cooked in a spicy and flavorful gravy.",
+      "images": [
+        "https://media.istockphoto.com/id/1373432451/photo/dum-aloo.jpg?s=1024x1024&w=is&k=20&c=nl91XUtO9GpCddAGobna3gXCAPeT9PGV1CnomqzBjL8=",
+        "https://example.com/images/dum_aloo2.jpg",
+        "https://example.com/images/dum_aloo3.jpg",
+        "https://example.com/images/dum_aloo4.jpg"
+      ],
+      "price": 9,
+      "rating": 4.7,
+      "quantity": 1
+    },
+    {
+      "id": "27",
+      "dish_name": "Gobi Manchurian",
+      "category": "Main Course - Vegetarian",
+      "description": "Fried cauliflower florets tossed in a spicy and tangy sauce.",
+      "images": [
+        "https://media.istockphoto.com/id/1333972712/photo/cabbage-manchurian.jpg?s=1024x1024&w=is&k=20&c=HRyy9SoIdnrcpl-CZthsA-XGtHPCH8Lkkt-eEPNYaLo=",
+        "https://example.com/images/gobi_manchurian2.jpg",
+        "https://example.com/images/gobi_manchurian3.jpg",
+        "https://example.com/images/gobi_manchurian4.jpg"
+      ],
+      "price": 120,
+      "rating": 4.6,
+      "quantity": 1
+    },
+    {
+      "id": "28",
+      "dish_name": "Chana Masala",
+      "category": "Main Course - Vegetarian",
+      "description": "Spicy chickpea curry cooked with onions and tomatoes.",
+      "images": [
+        "https://media.istockphoto.com/id/2137631825/photo/kala-chana-masala-indian-style-black-chickpea-curry-vegetarian-food.jpg?s=1024x1024&w=is&k=20&c=wMLNhJvg3RGhdFiNNiCgAqM1bFgxHtIu5HoSmr_9SNM=",
+        "https://example.com/images/chana_masala2.jpg",
+        "https://example.com/images/chana_masala3.jpg",
+        "https://example.com/images/chana_masala4.jpg"
+      ],
+      "price": 210,
+      "rating": 4.7,
+      "quantity": 1
+    },
+    {
+      "id": "29",
+      "dish_name": "Vegetable Jalfrezi",
+      "category": "Main Course - Vegetarian",
+      "description": "Mixed vegetables cooked in a spicy tomato-based gravy.",
+      "images": [
+        "https://media.istockphoto.com/id/1496324057/photo/chettinad-pepper-mutton-dry-served-in-dish-isolated-on-background-top-view-of-desi-indian-food.jpg?s=1024x1024&w=is&k=20&c=XMNEeB58MsDrggZ6uGDMTylz7r30jW8_PqBYESCbLak=",
+        "https://example.com/images/vegetable_jalfrezi2.jpg",
+        "https://example.com/images/vegetable_jalfrezi3.jpg",
+        "https://example.com/images/vegetable_jalfrezi4.jpg"
+      ],
+      "price": 120,
+      "rating": 4.5,
+      "quantity": 1
+    },
+    {
+      "id": "30",
+      "dish_name": "Methi Malai Matar",
+      "category": "Main Course - Vegetarian",
+      "description": "Green peas and fenugreek leaves cooked in a creamy gravy.",
+      "images": [
+        "https://media.istockphoto.com/id/1492430194/photo/cilok.jpg?s=1024x1024&w=is&k=20&c=hIRXr5F2TuY7PAGgFgySrux4sPBSMWqLyaKUr2K0ZeY=",
+        "https://example.com/images/methi_malai_matar2.jpg",
+        "https://example.com/images/methi_malai_matar3.jpg",
+        "https://example.com/images/methi_malai_matar4.jpg"
+      ],
+      "price": 100,
+      "rating": 4.8,
+      "quantity": 1
+    },
+    {
+      "id": "31",
+      "dish_name": "Naan",
+      "category": "Bread",
+      "description": "Soft and fluffy Indian flatbread baked in a tandoor.",
+      "images": [
+        "https://images.unsplash.com/photo-1697155406014-04dc649b0953?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://example.com/images/naan2.jpg",
+        "https://example.com/images/naan3.jpg",
+        "https://example.com/images/naan4.jpg"
+      ],
+      "price": 12.5,
+      "rating": 4.9,
+      "quantity": 1
+    },
+    {
+      "id": "32",
+      "dish_name": "Garlic Naan",
+      "category": "Bread",
+      "description": "Indian flatbread topped with minced garlic and baked in a tandoor.",
+      "images": [
+        "https://media.istockphoto.com/id/1140752821/photo/indian-naan-bread-with-garlic-butter-on-wooden-table.jpg?s=1024x1024&w=is&k=20&c=V_5HjrbbN9GcwlqvLMVHD4pu9BXOduhkHMTpNlo8qoA=",
+        "https://example.com/images/garlic_naan2.jpg",
+        "https://example.com/images/garlic_naan3.jpg",
+        "https://example.com/images/garlic_naan4.jpg"
+      ],
+      "price": 13,
+      "rating": 4.9,
+      "quantity": 1
+    },
+    {
+      "id": "33",
+      "dish_name": "Roti",
+      "category": "Bread",
+      "description": "Whole wheat Indian flatbread cooked on a griddle.",
+      "images": [
+        "https://plus.unsplash.com/premium_photo-1675382377369-c8f4cd69cfee?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://example.com/images/roti2.jpg",
+        "https://example.com/images/roti3.jpg",
+        "https://example.com/images/roti4.jpg"
+      ],
+      "price": 12,
+      "rating": 4.8,
+      "quantity": 1
+    },
+    {
+      "id": "34",
+      "dish_name": "Paratha",
+      "category": "Bread",
+      "description": "Layered Indian flatbread cooked on a griddle.",
+      "images": [
+        "https://media.istockphoto.com/id/694739192/photo/traditional-indian-bread-aloo-paratha-or-aalu-parotha-potato-stuffed-bread-served-with-tomato.jpg?s=1024x1024&w=is&k=20&c=STa0p-4KJBcp_eklrjAq98pBpv8Vjd2rx7oKugLHehc=",
+        "https://example.com/images/paratha2.jpg",
+        "https://example.com/images/paratha3.jpg",
+        "https://example.com/images/paratha4.jpg"
+      ],
+      "price": 40,
+      "rating": 4.8,
+      "quantity": 1
+    },
+    {
+      "id": "35",
+      "dish_name": "Stuffed Paratha",
+      "category": "Bread",
+      "description": "Indian flatbread stuffed with spiced potatoes or paneer.",
+      "images": [
+        "https://media.istockphoto.com/id/1205762531/photo/stuffed-paratha.jpg?s=1024x1024&w=is&k=20&c=4Pgw7YxqZi1cIb1A0H10S6pFDUM2jWO4ufp4kO2Wz7c=",
+        "https://example.com/images/stuffed_paratha2.jpg",
+        "https://example.com/images/stuffed_paratha3.jpg",
+        "https://example.com/images/stuffed_paratha4.jpg"
+      ],
+      "price": 45,
+      "rating": 4.7,
+      "quantity": 1
+    },
+    {
+      "id": "36",
+      "dish_name": "Lachha Paratha",
+      "category": "Bread",
+      "description": "Layered and flaky Indian flatbread cooked on a griddle.",
+      "images": [
+        "https://media.istockphoto.com/id/1292639158/photo/lachha-paratha-a-layered-flat-bread-using-wheat-flour-popular-dish-in-north-india-isolated.jpg?s=1024x1024&w=is&k=20&c=MyT6fcb5Y14YNB1lW5ChYlX3EKRPXK0sEZzvZzCjaqw=",
+        "https://example.com/images/lachha_paratha2.jpg",
+        "https://example.com/images/lachha_paratha3.jpg",
+        "https://example.com/images/lachha_paratha4.jpg"
+      ],
+      "price": 60,
+      "rating": 4.8,
+      "quantity": 1
+    },
+    {
+      "id": "37",
+      "dish_name": "Puri",
+      "category": "Bread",
+      "description": "Deep-fried Indian bread that puffs up when cooked.",
+      "images": [
+        "https://media.istockphoto.com/id/1705124930/photo/food-photos-various-entrees-appetizers-deserts-etc.jpg?s=1024x1024&w=is&k=20&c=HSe97QhAKy2MLLVtJ4ur_sBNqWoM66bpTQ-t7BB7OSw=",
+        "https://example.com/images/puri2.jpg",
+        "https://example.com/images/puri3.jpg",
+        "https://example.com/images/puri4.jpg"
+      ],
+      "price": 5,
+      "rating": 4.7,
+      "quantity": 1
+    },
+    {
+      "id": "38",
+      "dish_name": "Bhatura",
+      "category": "Bread",
+      "description": "Deep-fried Indian bread usually served with chole.",
+      "images": [
+        "https://media.istockphoto.com/id/2157906281/photo/chole-bhature-is-a-north-indian-food-dish-a-combination-of-chana-masala-and-bhatura-or-puri.jpg?s=1024x1024&w=is&k=20&c=mTa794L9TBCMw_KsaMCNhKGPb6XALjZ2Z6UvMGp3C6o=",
+        "https://example.com/images/bhatura2.jpg",
+        "https://example.com/images/bhatura3.jpg",
+        "https://example.com/images/bhatura4.jpg"
+      ],
+      "price": 30,
+      "rating": 4.8,
+      "quantity": 1
+    },
+    {
+      "id": "39",
+      "dish_name": "Jeera Rice",
+      "category": "Rice",
+      "description": "Basmati rice flavored with cumin seeds.",
+      "images": [
+        "https://media.istockphoto.com/id/667918214/photo/indian-jeera-rice-long-grain-basmati-rice.jpg?s=1024x1024&w=is&k=20&c=5c57FITQ0OaTCp-CjVm8yEGC9J-HNlwHY2vgJa6ZQjo=",
+        "https://example.com/images/jeera_rice2.jpg",
+        "https://example.com/images/jeera_rice3.jpg",
+        "https://example.com/images/jeera_rice4.jpg"
+      ],
+      "price": 80,
+      "rating": 4.7,
+      "quantity": 1
+    },
+    {
+      "id": "40",
+      "dish_name": "Vegetable Biryani",
+      "category": "Rice",
+      "description": "Fragrant basmati rice cooked with mixed vegetables and spices.",
+      "images": [
+        "https://media.istockphoto.com/id/980078660/photo/indian-vegetable-pulav-or-biryani-made-using-basmati-rice-served-in-a-ceramic-bowl-selective.jpg?s=2048x2048&w=is&k=20&c=5THOv_Rq4fvUzaTq361jM_0uNAnH3IzU7thqs5LA-uk=",
+        "https://example.com/images/vegetable_biryani2.jpg",
+        "https://example.com/images/vegetable_biryani3.jpg",
+        "https://example.com/images/vegetable_biryani4.jpg"
+      ],
+      "price": 120,
+      "rating": 4.8,
+      "quantity": 1
+    },
+    {
+      "id": "41",
+      "dish_name": "Peas Pulao",
+      "category": "Rice",
+      "description": "Basmati rice cooked with green peas and spices.",
+      "images": [
+        "https://media.istockphoto.com/id/179319674/photo/mixed-of-colorful-vegetable-rice.jpg?s=1024x1024&w=is&k=20&c=iRIxnwUK6TRr8naxCIWXruWDwYQruJ_Cd9a0a3zZ6aw=",
+        "https://example.com/images/peas_pulao2.jpg",
+        "https://example.com/images/peas_pulao3.jpg",
+        "https://example.com/images/peas_pulao4.jpg"
+      ],
+      "price": 100,
+      "rating": 4.7,
+      "quantity": 1
+    },
+    {
+      "id": "42",
+      "dish_name": "Kashmiri Pulao",
+      "category": "Rice",
+      "description": "Fragrant rice cooked with saffron, dried fruits, and nuts.",
+      "images": [
+        "https://media.istockphoto.com/id/2077426665/photo/selective-focus-of-one-of-the-most-popular-food-in-india-biryani.jpg?s=1024x1024&w=is&k=20&c=TrplV8CyNlyWQf0TU9yYqavs81Oq3GkCmuiVGVbgDGY=",
+        "https://example.com/images/kashmiri_pulao2.jpg",
+        "https://example.com/images/kashmiri_pulao3.jpg",
+        "https://example.com/images/kashmiri_pulao4.jpg"
+      ],
+      "price": 120,
+      "rating": 4.8,
+      "quantity": 1
+    },
+    {
+      "id": "43",
+      "dish_name": "Tomato Rice",
+      "category": "Rice",
+      "description": "Spicy and tangy rice cooked with tomatoes and spices.",
+      "images": [
+        "https://media.istockphoto.com/id/1146289003/photo/traditional-indian-street-food-rice-with-vegetables-close-up-on-a-plate-horizontal.jpg?s=1024x1024&w=is&k=20&c=El5wJCW9f0AK2qIQuAuBtMksD4HsMtwf2PQIqrDhLXM=",
+        "https://example.com/images/tomato_rice2.jpg",
+        "https://example.com/images/tomato_rice3.jpg",
+        "https://example.com/images/tomato_rice4.jpg"
+      ],
+      "price": 80,
+      "rating": 4.6,
+      "quantity": 1
+    },
+    {
+      "id": "44",
+      "dish_name": "Curd Rice",
+      "category": "Rice",
+      "description": "Rice mixed with yogurt and tempered with spices.",
+      "images": [
+        "https://media.istockphoto.com/id/1168154867/photo/indian-curd-rice-with-carrots-pomegranate-and-with-additional-tempering-of-spices-close-up-in.jpg?s=1024x1024&w=is&k=20&c=l27716Z7nYm9h_-Fje_S3urHwNVVf_FQNNdegqhsyQk=",
+        "https://example.com/images/curd_rice2.jpg",
+        "https://example.com/images/curd_rice3.jpg",
+        "https://example.com/images/curd_rice4.jpg"
+      ],
+      "price": 70,
+      "rating": 4.5,
+      "quantity": 1
+    },
+    {
+      "id": "45",
+      "dish_name": "Lemon Rice",
+      "category": "Rice",
+      "description": "Rice flavored with lemon juice, turmeric, and spices.",
+      "images": [
+        "https://media.istockphoto.com/id/483790424/photo/south-indian-lemon-rice.jpg?s=1024x1024&w=is&k=20&c=FfCmgu8vaFRqd0ehTsu2CMQb_VlXOZRpPpvNFo_0qkg=",
+        "https://example.com/images/lemon_rice2.jpg",
+        "https://example.com/images/lemon_rice3.jpg",
+        "https://example.com/images/lemon_rice4.jpg"
+      ],
+      "price": 70,
+      "rating": 4.6,
+      "quantity": 1
+    },
+    {
+      "id": "46",
+      "dish_name": "Pongal",
+      "category": "Rice",
+      "description": "A South Indian dish made with rice and moong dal.",
+      "images": [
+        "https://media.istockphoto.com/id/1319788114/photo/sweet-pongal-indian-festival-food-stock-image.jpg?s=1024x1024&w=is&k=20&c=p4qj2ScA4-FkUgDJdPaFV0q92tDXDPi9Y6CPrJexdBE=",
+        "https://example.com/images/pongal2.jpg",
+        "https://example.com/images/pongal3.jpg",
+        "https://example.com/images/pongal4.jpg"
+      ],
+      "price": 80,
+      "rating": 4.7,
+      "quantity": 1
+    },
+    {
+      "id": "47",
+      "dish_name": "Gajar Halwa",
+      "category": "Dessert",
+      "description": "Carrot pudding made with grated carrots, milk, and sugar.",
+      "images": [
+        "https://media.istockphoto.com/id/522620720/photo/gajar-halwa-or-carrot-halwa-indian-sweet.jpg?s=2048x2048&w=is&k=20&c=w8vgtTppDo1vmeJ3bqhC7l49vsx2-rqwH_iCoyUiwNw=",
+        "https://example.com/images/gajar_halwa2.jpg",
+        "https://example.com/images/gajar_halwa3.jpg",
+        "https://example.com/images/gajar_halwa4.jpg"
+      ],
+      "price": 50,
+      "rating": 4.8,
+      "quantity": 1
+    },
+    {
+      "id": "48",
+      "dish_name": "Gulab Jamun",
+      "category": "Dessert",
+      "description": "Fried dough balls soaked in sugar syrup.",
+      "images": [
+        "https://media.istockphoto.com/id/668147754/photo/gulab-jamun.jpg?s=2048x2048&w=is&k=20&c=zc1gWIcMmqelyiypt1aWVLXC3lV4QqH11QXZkecQDe8=",
+        "https://example.com/images/gulab_jamun2.jpg",
+        "https://example.com/images/gulab_jamun3.jpg",
+        "https://example.com/images/gulab_jamun4.jpg"
+      ],
+      "price": 40,
+      "rating": 4.9,
+      "quantity": 1
+    },
+    {
+      "id": "49",
+      "dish_name": "Rasgulla",
+      "category": "Dessert",
+      "description": "Spongy cheese balls soaked in sugar syrup.",
+      "images": [
+        "https://media.istockphoto.com/id/1156631698/photo/rasgulla-sweet-food.jpg?s=2048x2048&w=is&k=20&c=JQNQDkAvtvGHlRbl1JSOa6h58PG4sokb5Mb3ThkxV5E=",
+        "https://example.com/images/rasgulla2.jpg",
+        "https://example.com/images/rasgulla3.jpg",
+        "https://example.com/images/rasgulla4.jpg"
+      ],
+      "price": 40,
+      "rating": 4.8,
+      "quantity": 1
+    },
+    {
+      "id": "50",
+      "dish_name": "Rasmalai",
+      "category": "Dessert",
+      "description": "Soft paneer balls soaked in sweetened and thickened milk.",
+      "images": [
+        "https://media.istockphoto.com/id/1411786526/photo/rasmalai.jpg?s=2048x2048&w=is&k=20&c=mrqI0FGrq7fbRwCNdqAokyunuvnRWfLgBLouY5z11kE=",
+        "https://example.com/images/rasmalai2.jpg",
+        "https://example.com/images/rasmalai3.jpg",
+        "https://example.com/images/rasmalai4.jpg"
+      ],
+      "price": 50,
+      "rating": 4.9,
+      "quantity": 1
+    },
+    {
+      "id": "51",
+      "dish_name": "Kadai Vegetable",
+      "category": "Main Course - Vegetarian",
+      "description": "Mixed vegetables cooked with Indian spices in a kadai.",
+      "images": [
+        "https://example.com/images/kadai_vegetable1.jpghttps://media.istockphoto.com/id/1157268346/photo/mix-vegetable-curry-indian-main-course-recipe-contains-carrots-cauliflower-green-peas-and.jpg?s=1024x1024&w=is&k=20&c=Nq_wGTMXmZG1N0JSuJbiSx7KS7FD7jkXhiLUhQnYDjo=",
+        "https://example.com/images/kadai_vegetable2.jpg",
+        "https://example.com/images/kadai_vegetable3.jpg",
+        "https://example.com/images/kadai_vegetable4.jpg"
+      ],
+      "price": 110,
+      "rating": 4.7,
+      "quantity": 1
+    },
+    {
+      "id": "52",
+      "dish_name": "Paneer Bhurji",
+      "category": "Main Course - Vegetarian",
+      "description": "Scrambled paneer cooked with onions, tomatoes, and spices.",
+      "images": [
+        "https://media.istockphoto.com/id/1084208122/photo/paneer-bhurji-mildly-spiced-cottage-cheese-scramble-and-served-with-roti-or-laccha-paratha.jpg?s=1024x1024&w=is&k=20&c=lh8L-_Ij0XOXsv4My2G7H9uVHCgjT5LL5GAAxIsnL8Y=",
+        "https://example.com/images/paneer_bhurji2.jpg",
+        "https://example.com/images/paneer_bhurji3.jpg",
+        "https://example.com/images/paneer_bhurji4.jpg"
+      ],
+      "price": 100,
+      "rating": 4.6,
+      "quantity": 1
+    },
+    {
+      "id": "53",
+      "dish_name": "Vegetable Kofta",
+      "category": "Main Course - Vegetarian",
+      "description": "Fried vegetable dumplings served in a rich and creamy gravy.",
+      "images": [
+        "https://media.istockphoto.com/id/1219174110/photo/malai-kofta-curry-in-black-bowl-at-dark-slate-background-malai-kofta-is-indian-cuisine-dish.jpg?s=2048x2048&w=is&k=20&c=ed-HoijEosqErj7FHaj9P0SHHApTPYZmd19Qzs4Awns=",
+        "https://example.com/images/vegetable_kofta2.jpg",
+        "https://example.com/images/vegetable_kofta3.jpg",
+        "https://example.com/images/vegetable_kofta4.jpg"
+      ],
+      "price": 120,
+      "rating": 4.7,
+      "quantity": 1
+    },
+    {
+      "id": "54",
+      "dish_name": "Baingan Bharta",
+      "category": "Main Course - Vegetarian",
+      "description": "Smoky mashed eggplant cooked with tomatoes and spices.",
+      "images": [
+        "https://media.istockphoto.com/id/1472944352/photo/vangyache-bharit-baigan-bharata-chokha-traditional-indian-dish-brinjal-roasted-on-fire-and.jpg?s=2048x2048&w=is&k=20&c=WxpGauiR0XzEw_HO6HS7pee6qvwm0dzu1XMJFV7ynK4=",
+        "https://example.com/images/baingan_bharta2.jpg",
+        "https://example.com/images/baingan_bharta3.jpg",
+        "https://example.com/images/baingan_bharta4.jpg"
+      ],
+      "price": 90,
+      "rating": 4.6,
+      "quantity": 1
+    },
+    {
+      "id": "55",
+      "dish_name": "Palak Paneer",
+      "category": "Main Course - Vegetarian",
+      "description": "Paneer cubes cooked in a creamy spinach gravy.",
+      "images": [
+        "https://media.istockphoto.com/id/851889508/photo/palak-paneer.jpg?s=1024x1024&w=is&k=20&c=xp540er2KvXOzPIdncEaZrgI3v4vtbz3oF3GZRRnUhQ=",
+        "https://example.com/images/palak_paneer2.jpg",
+        "https://example.com/images/palak_paneer3.jpg",
+        "https://example.com/images/palak_paneer4.jpg"
+      ],
+      "price": 110,
+      "rating": 4.8,
+      "quantity": 1
+    },
+    {
+      "id": "56",
+      "dish_name": "Chole Bhature",
+      "category": "Main Course - Vegetarian",
+      "description": "Spicy chickpeas served with deep-fried bread.",
+      "images": [
+        "https://media.istockphoto.com/id/1257751693/photo/chole-bhature.jpg?s=1024x1024&w=is&k=20&c=Zn9r5JCkaxGgQ2BIrWcgv2R2EbC85730bd6gv9q7oQA=",
+        "https://example.com/images/chole_bhature2.jpg",
+        "https://example.com/images/chole_bhature3.jpg",
+        "https://example.com/images/chole_bhature4.jpg"
+      ],
+      "price": 100,
+      "rating": 4.7,
+      "quantity": 1
+    },
+    {
+      "id": "57",
+      "dish_name": "Rajma",
+      "category": "Main Course - Vegetarian",
+      "description": "Red kidney beans cooked in a spicy tomato gravy.",
+      "images": [
+        "https://media.istockphoto.com/id/913998762/photo/tomato-curry-an-indian-vegetarian-side-dish-for-chapati-roti-appam-rice.jpg?s=1024x1024&w=is&k=20&c=5l_FVXRMvXEYV6QyiUDBCfWZ7TYz4tnq6GMcgcIyi_I=",
+        "https://example.com/images/rajma2.jpg",
+        "https://example.com/images/rajma3.jpg",
+        "https://example.com/images/rajma4.jpg"
+      ],
+      "price": 80,
+      "rating": 4.6,
+      "quantity": 1
+    },
+    {
+      "id": "58",
+      "dish_name": "Paneer Tikka",
+      "category": "Appetizer",
+      "description": "Marinated paneer cubes grilled to perfection.",
+      "images": [
+        "https://media.istockphoto.com/id/1474136049/photo/close-up-image-of-paneer-kebabs-marinated-curd-cheese-pieces-on-metal-skewers-red-onion-and.jpg?s=1024x1024&w=is&k=20&c=bSKMtoQMdFNci5nQSYhYJPTQ7OuU9y9P2iq2RwVXLDs=",
+        "https://example.com/images/paneer_tikka2.jpg",
+        "https://example.com/images/paneer_tikka3.jpg",
+        "https://example.com/images/paneer_tikka4.jpg"
+      ],
+      "price": 120,
+      "rating": 4.8,
+      "quantity": 1
+    },
+    {
+      "id": "59",
+      "dish_name": "Dahi Puri",
+      "category": "Appetizer",
+      "description": "Crispy puris filled with yogurt and tangy chutneys.",
+      "images": [
+        "https://media.istockphoto.com/id/1314802039/photo/forehead-castle-chat.jpg?s=1024x1024&w=is&k=20&c=ccYBjFMXPIECK91XGTsrAHTXf0fC3rBEmIZPjcDTu-A=",
+        "https://example.com/images/dahi_puri2.jpg",
+        "https://example.com/images/dahi_puri3.jpg",
+        "https://example.com/images/dahi_puri4.jpg"
+      ],
+      "price": 60,
+      "rating": 4.7,
+      "quantity": 1
+    },
+    {
+      "id": "60",
+      "dish_name": "Vegetable Pakora",
+      "category": "Appetizer",
+      "description": "Mixed vegetable fritters deep-fried to perfection.",
+      "images": [
+        "https://media.istockphoto.com/id/1272417152/photo/cottage-cheese-cutlet.jpg?s=2048x2048&w=is&k=20&c=dZl8-W6U37AKZCgYF2O9429k2O9YxDjk8rTOyl6ZZ9o=",
+        "https://example.com/images/vegetable_pakora2.jpg",
+        "https://example.com/images/vegetable_pakora3.jpg",
+        "https://example.com/images/vegetable_pakora4.jpg"
+      ],
+      "price": 70,
+      "rating": 4.6,
+      "quantity": 1
+    },
+    {
+      "id": "61",
+      "dish_name": "Onion Bhaji",
+      "category": "Appetizer",
+      "description": "Crispy onion fritters served with chutney.",
+      "images": [
+        "https://media.istockphoto.com/id/1285545879/photo/shot-of-piyaz-pakora-bhaji-bhajji-bhajiya-bajji-in-a-glass-plate-with-some-fresh-green.jpg?s=1024x1024&w=is&k=20&c=sAg1DncMZYBs_iks1_mHonFIJh4Rn0X53U8iL5GpkGQ=",
+        "https://example.com/images/onion_bhaji2.jpg",
+        "https://example.com/images/onion_bhaji3.jpg",
+        "https://example.com/images/onion_bhaji4.jpg"
+      ],
+      "price": 60,
+      "rating": 4.6,
+      "quantity": 1
+    },
+    {
+      "id": "62",
+      "dish_name": "Paneer Paratha",
+      "category": "Bread",
+      "description": "Indian flatbread stuffed with spiced paneer.",
+      "images": [
+        "https://media.istockphoto.com/id/1206574555/photo/aalu-paratha.jpg?s=1024x1024&w=is&k=20&c=PsWAD7CcYkaUPqup1ewG2I4U8-fJDwzoxXuuJ-J-mC0=",
+        "https://example.com/images/paneer_paratha2.jpg",
+        "https://example.com/images/paneer_paratha3.jpg",
+        "https://example.com/images/paneer_paratha4.jpg"
+      ],
+      "price": 40,
+      "rating": 4.8,
+      "quantity": 1
+    },
+    {
+      "id": "63",
+      "dish_name": "Methi Paratha",
+      "category": "Bread",
+      "description": "Indian flatbread made with fenugreek leaves.",
+      "images": [
+        "https://media.istockphoto.com/id/1413556592/photo/a-food-called-methi-paratha-or-methi-thepla-is-an-indian-breakfast-dish-served-with-curd.jpg?s=1024x1024&w=is&k=20&c=EZX-YNQEMKiRVnxdOKOXfXVLwKp3TrZVdRlBHVDOpys=",
+        "https://example.com/images/methi_paratha2.jpg",
+        "https://example.com/images/methi_paratha3.jpg",
+        "https://example.com/images/methi_paratha4.jpg"
+      ],
+      "price": 35,
+      "rating": 4.7,
+      "quantity": 1
+    },
+    {
+      "id": "64",
+      "dish_name": "Aloo Paratha",
+      "category": "Bread",
+      "description": "Indian flatbread stuffed with spiced potatoes.",
+      "images": [
+        "https://media.istockphoto.com/id/1951940755/photo/close-up-image-of-indian-breakfast-dish-buffet-triangular-slices-of-aloo-parathas-on-white.jpg?s=1024x1024&w=is&k=20&c=04NiX5aqrGFoVd-lQQerja_OUMtxMUrmgfNjScXG_uM=",
+        "https://example.com/images/aloo_paratha2.jpg",
+        "https://example.com/images/aloo_paratha3.jpg",
+        "https://example.com/images/aloo_paratha4.jpg"
+      ],
+      "price": 40,
+      "rating": 4.8,
+      "quantity": 1
+    },
+    {
+      "id": "65",
+      "dish_name": "Masala Dosa",
+      "category": "South Indian",
+      "description": "Crispy rice and lentil crepe filled with spiced potatoes.",
+      "images": [
+        "https://media.istockphoto.com/id/1205482290/photo/masala-dosa-on-banana-leaf-with-both-sambar-and-coconut-chutney-south-indian-vegetarian-snack.jpg?s=2048x2048&w=is&k=20&c=ppNMsGXixKLRKol0bbMWJ5rj3R6PqOcE7C_6Pu9jQic=",
+        "https://example.com/images/masala_dosa2.jpg",
+        "https://example.com/images/masala_dosa3.jpg",
+        "https://example.com/images/masala_dosa4.jpg"
+      ],
+      "price": 80,
+      "rating": 4.8,
+      "quantity": 1
+    },
+    {
+      "id": "66",
+      "dish_name": "Plain Dosa",
+      "category": "South Indian",
+      "description": "Crispy rice and lentil crepe served with chutney and sambar.",
+      "images": [
+        "https://media.istockphoto.com/id/1318600400/photo/plain-dosa-dish.jpg?s=1024x1024&w=is&k=20&c=oxXtTPdBtPjypbJa-WN51xg-atLxZKT1q8qINLIZdOc=",
+        "https://example.com/images/plain_dosa2.jpg",
+        "https://example.com/images/plain_dosa3.jpg",
+        "https://example.com/images/plain_dosa4.jpg"
+      ],
+      "price": 60,
+      "rating": 4.7,
+      "quantity": 1
+    },
+    {
+      "id": "67",
+      "dish_name": "Rava Dosa",
+      "category": "South Indian",
+      "description": "Crispy semolina crepe served with chutney and sambar.",
+      "images": [
+        "https://media.istockphoto.com/id/1292633219/photo/masala-dosa-a-south-indian-traditional-and-popular-crepe-with-filling-of-a-mixture-of-mashed.jpg?s=2048x2048&w=is&k=20&c=3gPLpHopwxSlk3qxnQAvbc1q7ShvAcEVbGUZrMDoJwY=",
+        "https://example.com/images/rava_dosa2.jpg",
+        "https://example.com/images/rava_dosa3.jpg",
+        "https://example.com/images/rava_dosa4.jpg"
+      ],
+      "price": 70,
+      "rating": 4.7,
+      "quantity": 1
+    },
+    {
+      "id": "68",
+      "dish_name": "Onion Uttapam",
+      "category": "South Indian",
+      "description": "Thick pancake made from rice and lentil batter topped with onions.",
+      "images": [
+        "https://media.istockphoto.com/id/1265553451/photo/south-indian-food-uttapam.jpg?s=1024x1024&w=is&k=20&c=vxsP5epoo-PFVwpVQJZjvUzIHQsHGw8LaOC8of4x3GQ=",
+        "https://example.com/images/onion_uttapam2.jpg",
+        "https://example.com/images/onion_uttapam3.jpg",
+        "https://example.com/images/onion_uttapam4.jpg"
+      ],
+      "price": 70,
+      "rating": 4.7,
+      "quantity": 1
+    },
+    {
+      "id": "69",
+      "dish_name": "Idli",
+      "category": "South Indian",
+      "description": "Steamed rice cakes served with chutney and sambar.",
+      "images": [
+        "https://media.istockphoto.com/id/638506124/photo/idli-with-coconut-chutney-and-sambhar.jpg?s=2048x2048&w=is&k=20&c=Qzxjmw_Sf-ynjwixuDYbhNrp-MyorVz_u0l2una3OpM=",
+        "https://example.com/images/idli2.jpg",
+        "https://example.com/images/idli3.jpg",
+        "https://example.com/images/idli4.jpg"
+      ],
+      "price": 50,
+      "rating": 4.6,
+      "quantity": 1
+    },
+    {
+      "id": "70",
+      "dish_name": "Vada",
+      "category": "South Indian",
+      "description": "Crispy lentil fritters served with chutney and sambar.",
+      "images": [
+        "https://media.istockphoto.com/id/1329053965/photo/vada-pav.jpg?s=2048x2048&w=is&k=20&c=qV7GmodXBodY0Ev0Dd1b6Zkbp2Db9hhh6lvbbmSPmTQ=",
+        "https://example.com/images/vada2.jpg",
+        "https://example.com/images/vada3.jpg",
+        "https://example.com/images/vada4.jpg"
+      ],
+      "price": 60,
+      "rating": 4.7,
+      "quantity": 1
+    },
+    {
+      "id": "71",
+      "dish_name": "Medu Vada",
+      "category": "South Indian",
+      "description": "Crispy and fluffy lentil doughnuts served with chutney and sambar.",
+      "images": [
+        "https://media.istockphoto.com/id/1345352262/photo/medu-vada-a-popular-south-indian-food-medu-vadai-with-sambar.jpg?s=2048x2048&w=is&k=20&c=QfojUKpJeGN5TE03oqqPADgb-WameAo2Vh7ypatUkAY=",
+        "https://example.com/images/medu_vada2.jpg",
+        "https://example.com/images/medu_vada3.jpg",
+        "https://example.com/images/medu_vada4.jpg"
+      ],
+      "price": 70,
+      "rating": 4.8,
+      "quantity": 1
+    },
+    {
+      "id": "72",
+      "dish_name": "Sambar Vada",
+      "category": "South Indian",
+      "description": "Crispy lentil fritters soaked in spicy sambar.",
+      "images": [
+        "https://media.istockphoto.com/id/1321291609/photo/rice-and-vada-dipped-in-sambar-breakfast-food-in-india.jpg?s=1024x1024&w=is&k=20&c=E7I4CeEBiFECSmkZJeoOoRmcAeKQlAGdlmvG40vxJAY=",
+        "https://example.com/images/sambar_vada2.jpg",
+        "https://example.com/images/sambar_vada3.jpg",
+        "https://example.com/images/sambar_vada4.jpg"
+      ],
+      "price": 70,
+      "rating": 4.8,
+      "quantity": 1
+    },
+    {
+      "id": "73",
+      "dish_name": "Bisi Bele Bath",
+      "category": "South Indian",
+      "description": "Spicy and tangy rice and lentil dish cooked with vegetables.",
+      "images": [
+        "https://example.com/images/bisi_bele_bath1.jpg",
+        "https://example.com/images/bisi_bele_bath2.jpg",
+        "https://example.com/images/bisi_bele_bath3.jpg",
+        "https://example.com/images/bisi_bele_bath4.jpg"
+      ],
+      "price": 80,
+      "rating": 4.7,
+      "quantity": 1
+    },
+    {
+      "id": "74",
+      "dish_name": "Vegetable Korma",
+      "category": "Main Course - Vegetarian",
+      "description": "Mixed vegetables cooked in a creamy coconut-based gravy.",
+      "images": [
+        "https://media.istockphoto.com/id/1286704566/photo/image-of-turquoise-blue-cooking-pan-filled-with-butter-chicken-tikka-curry-large-chunks-of.jpg?s=2048x2048&w=is&k=20&c=XN-LhLyIGh91VWouofOgvH8K2rNLo1FSs2jUqyGMzMM=",
+        "https://example.com/images/vegetable_korma2.jpg",
+        "https://example.com/images/vegetable_korma3.jpg",
+        "https://example.com/images/vegetable_korma4.jpg"
+      ],
+      "price": 100,
+      "rating": 4.7,
+      "quantity": 1
+    },
+    {
+      "id": "75",
+      "dish_name": "Paneer Butter Masala",
+      "category": "Main Course - Vegetarian",
+      "description": "Paneer cubes cooked in a rich and creamy tomato gravy.",
+      "images": [
+        "https://media.istockphoto.com/id/1463279736/photo/cheese-cottage-curry.jpg?s=1024x1024&w=is&k=20&c=e8ipACb0vIXOlXiWJwWebVSnXDTsISyogrGZ4Zb8g3k=",
+        "https://example.com/images/paneer_butter_masala2.jpg",
+        "https://example.com/images/paneer_butter_masala3.jpg",
+        "https://example.com/images/paneer_butter_masala4.jpg"
+      ],
+      "price": 151,
+      "rating": 4.8,
+      "quantity": 1
+    },
+    {
+      "id": "76",
+      "dish_name": "Kaju Curry",
+      "category": "Main Course - Vegetarian",
+      "description": "Cashews cooked in a rich and creamy gravy.",
+      "images": [
+        "https://media.istockphoto.com/id/1079020680/photo/cashew-curry-indian-kaju-masala-served-in-a-bowl-or-pan-selective-focus.jpg?s=1024x1024&w=is&k=20&c=yhPeupdy13qdQlrOR_gY8TtHYlQHYmNwsQj1k4k2558=",
+        "https://example.com/images/kaju_curry2.jpg",
+        "https://example.com/images/kaju_curry3.jpg",
+        "https://example.com/images/kaju_curry4.jpg"
+      ],
+      "price": 312,
+      "rating": 4.8,
+      "quantity": 1
+    },
+    {
+      "id": "77",
+      "dish_name": "Mix Veg Curry",
+      "category": "Main Course - Vegetarian",
+      "description": "Mixed vegetables cooked in a spicy and flavorful gravy.",
+      "images": [
+        "https://media.istockphoto.com/id/1278584350/photo/veg-kolhapuri-in-black-bowl-on-dark-slate-table-top-indian-vegetable-curry-dish-vegetarian.jpg?s=2048x2048&w=is&k=20&c=YWD41MR37eJG2WiCv6zmNflcF6iMSTF75K3UnWyYnYk=",
+        "https://example.com/images/mix_veg_curry2.jpg",
+        "https://example.com/images/mix_veg_curry3.jpg",
+        "https://example.com/images/mix_veg_curry4.jpg"
+      ],
+      "price": 160,
+      "rating": 4.7,
+      "quantity": 1
+    },
+    {
+      "id": "78",
+      "dish_name": "Aloo Gobi",
+      "category": "Main Course - Vegetarian",
+      "description": "Potatoes and cauliflower cooked with Indian spices.",
+      "images": [
+        "https://media.istockphoto.com/id/1263761784/photo/indian-mix-veg-or-mixed-vegetable-recipe-served-in-a-bowl-with-chapati.jpg?s=2048x2048&w=is&k=20&c=W-f0zHS2k_cYmnSh2x4A9wtIsdCImB7B6nrhrvxA-iE=",
+        "https://example.com/images/aloo_gobi2.jpg",
+        "https://example.com/images/aloo_gobi3.jpg",
+        "https://example.com/images/aloo_gobi4.jpg"
+      ],
+      "price": 80,
+      "rating": 4.6,
+      "quantity": 1
+    },
+    {
+      "id": "79",
+      "dish_name": "Bhindi Masala",
+      "category": "Main Course - Vegetarian",
+      "description": "Okra cooked with onions, tomatoes, and spices.",
+      "images": [
+        "https://media.istockphoto.com/id/1319624024/photo/bharwa-masala-bhindi-or-stuffed-okra.jpg?s=2048x2048&w=is&k=20&c=qQWwNCj3eyHFkqu2RrWVhEmP4mXwBV4mJZ-QSlHamAE=",
+        "https://example.com/images/bhindi_masala2.jpg",
+        "https://example.com/images/bhindi_masala3.jpg",
+        "https://example.com/images/bhindi_masala4.jpg"
+      ],
+      "price": 90,
+      "rating": 4.7,
+      "quantity": 1
+    },
+    {
+      "id": "80",
+      "dish_name": "Aloo Matar",
+      "category": "Main Course - Vegetarian",
+      "description": "Potatoes and green peas cooked in a spiced tomato gravy.",
+      "images": [
+        "https://media.istockphoto.com/id/1446513723/photo/indian-aloo-mutter-curry.jpg?s=2048x2048&w=is&k=20&c=1oWiyHzl6rlmAIpROJX3SgD59spa2z-n5kvg1cKOeOc=",
+        "https://example.com/images/aloo_matar2.jpg",
+        "https://example.com/images/aloo_matar3.jpg",
+        "https://example.com/images/aloo_matar4.jpg"
+      ],
+      "price": 80,
+      "rating": 4.6,
+      "quantity": 1
+    },
+    {
+      "id": "81",
+      "dish_name": "Malai Kofta",
+      "category": "Main Course - Vegetarian",
+      "description": "Fried paneer and potato dumplings served in a creamy gravy.",
+      "images": [
+        "https://media.istockphoto.com/id/629432892/photo/malai-kofta-curry-indian-food.jpg?s=2048x2048&w=is&k=20&c=K84Xj5LInOoASiRHKoBNrpHTCxzrg6Z6VpWNNkwNaXE=",
+        "https://example.com/images/malai_kofta2.jpg",
+        "https://example.com/images/malai_kofta3.jpg",
+        "https://example.com/images/malai_kofta4.jpg"
+      ],
+      "price": 120,
+      "rating": 4.8,
+      "quantity": 1
+    },
+    {
+      "id": "82",
+      "dish_name": "Paneer Pasanda",
+      "category": "Main Course - Vegetarian",
+      "description": "Paneer stuffed with nuts and cooked in a rich gravy.",
+      "images": [
+        "https://media.istockphoto.com/id/666569534/photo/kadai-paneer-matar-or-jafrezi-curry-indian-food.jpg?s=2048x2048&w=is&k=20&c=ldc09COfEY7yO9pvjBLUDe8cjLh6B23UDD_6sK_cvAI=",
+        "https://example.com/images/paneer_pasanda2.jpg",
+        "https://example.com/images/paneer_pasanda3.jpg",
+        "https://example.com/images/paneer_pasanda4.jpg"
+      ],
+      "price": 130,
+      "rating": 4.8,
+      "quantity": 1
+    },
+    {
+      "id": "83",
+      "dish_name": "Navratan Korma",
+      "category": "Main Course - Vegetarian",
+      "description": "Mixed vegetables and nuts cooked in a creamy gravy.",
+      "images": [
+        "https://media.istockphoto.com/id/942117132/photo/vegetable-or-navratan-korma-indian-mixed-veg-curry-served-with-roti-and-rice.jpg?s=2048x2048&w=is&k=20&c=rLFbwfUGeCubzJ0CcZ0xUmKGuKPEdqpRgPL3reWYZWo=",
+        "https://example.com/images/navratan_korma2.jpg",
+        "https://example.com/images/navratan_korma3.jpg",
+        "https://example.com/images/navratan_korma4.jpg"
+      ],
+      "price": 110,
+      "rating": 4.7,
+      "quantity": 1
+    },
+    {
+      "id": "84",
+      "dish_name": "Methi Malai Matar",
+      "category": "Main Course - Vegetarian",
+      "description": "Fenugreek leaves and green peas cooked in a creamy gravy.",
+      "images": [
+        "https://media.istockphoto.com/id/1076130942/photo/green-peas-curry-matar-masala-north-indian-punjabi-cuisine-vegetarian-food.jpg?s=2048x2048&w=is&k=20&c=jRjGEM3WkwmTxaopZkRXDPZ0VVyexxeQHwmJsL0t7tw=",
+        "https://example.com/images/methi_malai_matar2.jpg",
+        "https://example.com/images/methi_malai_matar3.jpg",
+        "https://example.com/images/methi_malai_matar4.jpg"
+      ],
+      "price": 100,
+      "rating": 4.7,
+      "quantity": 1
+    },
+    {
+      "id": "85",
+      "dish_name": "Palak Corn",
+      "category": "Main Course - Vegetarian",
+      "description": "Corn cooked in a creamy spinach gravy.",
+      "images": [
+        "https://media.istockphoto.com/id/625301704/photo/makki-di-roti-and-sarso-ka-saag.jpg?s=2048x2048&w=is&k=20&c=xam6bsnvEbat8d0CSevnPJUkvewg3Pxk-mMojlFuMo0=",
+        "https://example.com/images/palak_corn2.jpg",
+        "https://example.com/images/palak_corn3.jpg",
+        "https://example.com/images/palak_corn4.jpg"
+      ],
+      "price": 99,
+      "rating": 4.7,
+      "quantity": 1
+    },
+    {
+      "id": "86",
+      "dish_name": "Vegetable Biryani",
+      "category": "Rice",
+      "description": "Aromatic basmati rice cooked with mixed vegetables and spices.",
+      "images": [
+        "https://media.istockphoto.com/id/980079724/photo/indian-vegetable-pulav-or-biryani-made-using-basmati-rice-served-in-a-ceramic-bowl-selective.jpg?s=2048x2048&w=is&k=20&c=eUsVNNOMLQxYYaWB95zmLrTkngVwguYIGgkae26QNYs=",
+        "https://example.com/images/vegetable_biryani2.jpg",
+        "https://example.com/images/vegetable_biryani3.jpg",
+        "https://example.com/images/vegetable_biryani4.jpg"
+      ],
+      "price": 100,
+      "rating": 4.8,
+      "quantity": 1
+    },
+    {
+      "id": "87",
+      "dish_name": "Paneer Biryani",
+      "category": "Rice",
+      "description": "Aromatic basmati rice cooked with paneer and spices.",
+      "images": [
+        "https://media.istockphoto.com/id/1292443683/photo/hyderabadi-veg-paneer-dum-biryani-with-mixed-veggies-like-paneer-potato-carrots-peas-cooked.jpg?s=2048x2048&w=is&k=20&c=u6zWYiXuDUeLeZTu2Aw_yLnfcHUySOXTLCwyvlgES1c=",
+        "https://example.com/images/paneer_biryani2.jpg",
+        "https://example.com/images/paneer_biryani3.jpg",
+        "https://example.com/images/paneer_biryani4.jpg"
+      ],
+      "price": 120,
+      "rating": 4.8,
+      "quantity": 1
+    },
+    {
+      "id": "88",
+      "dish_name": "Curd Rice",
+      "category": "Rice",
+      "description": "Rice mixed with yogurt and tempered with spices.",
+      "images": [
+        "https://media.istockphoto.com/id/1168154867/photo/indian-curd-rice-with-carrots-pomegranate-and-with-additional-tempering-of-spices-close-up-in.jpg?s=2048x2048&w=is&k=20&c=AZWLaFTzvkz6C_gKu125I6A681bMcg3WjtLOjdCPPr4=",
+        "https://example.com/images/curd_rice2.jpg",
+        "https://example.com/images/curd_rice3.jpg",
+        "https://example.com/images/curd_rice4.jpg"
+      ],
+      "price": 70,
+      "rating": 4.6,
+      "quantity": 1
+    },
+    {
+      "id": "89",
+      "dish_name": "Tomato Rice",
+      "category": "Rice",
+      "description": "Rice cooked with tomatoes and spices.",
+      "images": [
+        "https://media.istockphoto.com/id/1292433146/photo/healthy-homemade-fried-rice.jpg?s=2048x2048&w=is&k=20&c=kQscqaD47MyXBpGVITbL9ljC-MyZYq90xoL-aPi1y5A=",
+        "https://example.com/images/tomato_rice2.jpg",
+        "https://example.com/images/tomato_rice3.jpg",
+        "https://example.com/images/tomato_rice4.jpg"
+      ],
+      "price": 80,
+      "rating": 4.6,
+      "quantity": 1
+    },
+    {
+      "id": "90",
+      "dish_name": "Lemon Rice",
+      "category": "Rice",
+      "description": "Rice cooked with lemon juice and tempered with spices.",
+      "images": [
+        "https://media.istockphoto.com/id/609913058/photo/lemon-rice-south-indian-rice-dish-with-lemon.jpg?s=2048x2048&w=is&k=20&c=k0qgSTmY0xacQwQ9Abby8BLIOMUapLH8rJLpLw5aiWw=",
+        "https://example.com/images/lemon_rice2.jpg",
+        "https://example.com/images/lemon_rice3.jpg",
+        "https://example.com/images/lemon_rice4.jpg"
+      ],
+      "price": 80,
+      "rating": 4.7,
+      "quantity": 1
+    },
+    {
+      "id": "91",
+      "dish_name": "Coconut Rice",
+      "category": "Rice",
+      "description": "Rice cooked with grated coconut and tempered with spices.",
+      "images": [
+        "https://media.istockphoto.com/id/651030302/photo/coconut-rice-south-indian-one-pot-meal-using-leftover-rice-coconut-and-nuts.jpg?s=2048x2048&w=is&k=20&c=hWwVEolJn-gD7tZMdOhV55xv-lAHDlTvXvBDRTynsSc=",
+        "https://example.com/images/coconut_rice2.jpg",
+        "https://example.com/images/coconut_rice3.jpg",
+        "https://example.com/images/coconut_rice4.jpg"
+      ],
+      "price": 80,
+      "rating": 4.7,
+      "quantity": 1
+    },
+    {
+      "id": "92",
+      "dish_name": "Bhature",
+      "category": "Bread",
+      "description": "Deep-fried bread served with chole.",
+      "images": [
+        "https://media.istockphoto.com/id/1292631387/photo/chole-bhature-spicy-chick-peas-curry-also-known-as-chole-or-channa-masala-is-traditional.jpg?s=2048x2048&w=is&k=20&c=F1bvkG9e2sNgVVN_KEluN4u02KrvntzmVLn-mzXv9dQ=",
+        "https://example.com/images/bhature2.jpg",
+        "https://example.com/images/bhature3.jpg",
+        "https://example.com/images/bhature4.jpg"
+      ],
+      "price": 30,
+      "rating": 4.6,
+      "quantity": 1
+    },
+    {
+      "id": "93",
+      "dish_name": "Poori",
+      "category": "Bread",
+      "description": "Deep-fried puffed bread.",
+      "images": [
+        "https://media.istockphoto.com/id/498052371/photo/freshly-baked-biscuits.jpg?s=2048x2048&w=is&k=20&c=jjHGAwjB5m5mg6OsaSR-3UB8Kr_AhP9d-SMdtuXNzkM=",
+        "https://example.com/images/poori2.jpg",
+        "https://example.com/images/poori3.jpg",
+        "https://example.com/images/poori4.jpg"
+      ],
+      "price": 30,
+      "rating": 4.7,
+      "quantity": 1
+    },
+    {
+      "id": "94",
+      "dish_name": "Puran Poli",
+      "category": "Bread",
+      "description": "Sweet flatbread stuffed with jaggery and lentil filling.",
+      "images": [
+        "https://media.istockphoto.com/id/941615770/photo/puran-poli-holige-obbattu-indian-sweet-flatbread-selective-focus.jpg?s=2048x2048&w=is&k=20&c=AXY5bV75WRVCD0MMOd_a5773gTy3m-jaX7MiKOhqCvQ=",
+        "https://example.com/images/puran_poli2.jpg",
+        "https://example.com/images/puran_poli3.jpg",
+        "https://example.com/images/puran_poli4.jpg"
+      ],
+      "price": 40,
+      "rating": 4.8,
+      "quantity": 1
+    },
+    {
+      "id": "95",
+      "dish_name": "Veg Momos",
+      "category": "Appetizer",
+      "description": "Steamed dumplings filled with mixed vegetables.",
+      "images": [
+        "https://media.istockphoto.com/id/1748107051/photo/veg-steamed-momo-nepalese-traditional-dish-momo-stuffed-with-vegetables-and-then-cooked-and.jpg?s=2048x2048&w=is&k=20&c=y32-cUfUM8DnEyYoDfK78pQune9AJ3Y1JIUzMlLPrqw=",
+        "https://example.com/images/veg_momos2.jpg",
+        "https://example.com/images/veg_momos3.jpg",
+        "https://example.com/images/veg_momos4.jpg"
+      ],
+      "price": 70,
+      "rating": 4.7,
+      "quantity": 1
+    },
+    {
+      "id": "96",
+      "dish_name": "Veg Spring Rolls",
+      "category": "Appetizer",
+      "description": "Crispy rolls filled with mixed vegetables.",
+      "images": [
+        "https://media.istockphoto.com/id/481207418/photo/veg-spring-rolls-on-white-dish-and-wooden-table.jpg?s=2048x2048&w=is&k=20&c=JeFGolVk_2Y9hOuqrnb8DnRPquUABJPBBkL9c7GR6fM=",
+        "https://example.com/images/veg_spring_rolls2.jpg",
+        "https://example.com/images/veg_spring_rolls3.jpg",
+        "https://example.com/images/veg_spring_rolls4.jpg"
+      ],
+      "price": 60,
+      "rating": 4.7,
+      "quantity": 1
+    },
+    {
+      "id": "97",
+      "dish_name": "Paneer Frankie",
+      "category": "Street Food",
+      "description": "Indian wrap filled with spiced paneer.",
+      "images": [
+        "https://media.istockphoto.com/id/2137554054/photo/fried-tofu-with-peppers-garlic-and-herbs-vegetarian-food-healthy-eating-diet.jpg?s=2048x2048&w=is&k=20&c=qCPj3ajMEK0uX96iFUGkdl-Lm-8c4LyfMdfGAff62W0=",
+        "https://example.com/images/paneer_frankie2.jpg",
+        "https://example.com/images/paneer_frankie3.jpg",
+        "https://example.com/images/paneer_frankie4.jpg"
+      ],
+      "price": 80,
+      "rating": 4.7,
+      "quantity": 1
+    },
+    {
+      "id": "98",
+      "dish_name": "Pav Bhaji",
+      "category": "Street Food",
+      "description": "Spiced mashed vegetable curry served with bread rolls.",
+      "images": [
+        "https://media.istockphoto.com/id/1438867572/photo/pav-bhaji-is-a-fast-food-dish-from-india-consisting-of-a-thick-vegetable-curry-served-with.jpg?s=2048x2048&w=is&k=20&c=JXfwxdu6oqAG3Dh-IKtpCp-AiBYw75f5zofvm_QY978=",
+        "https://example.com/images/pav_bhaji2.jpg",
+        "https://example.com/images/pav_bhaji3.jpg",
+        "https://example.com/images/pav_bhaji4.jpg"
+      ],
+      "price": 99,
+      "rating": 4.8,
+      "quantity": 1
+    },
+    {
+      "id": "99",
+      "dish_name": "Pani Puri",
+      "category": "Street Food",
+      "description": "Crispy hollow puris filled with spicy water and tamarind chutney.",
+      "images": [
+        "https://media.istockphoto.com/id/1314329942/photo/goal-gappa-or-pani-puri.jpg?s=2048x2048&w=is&k=20&c=7lJJf2WujQVpKhhRfMSb6JOb-hK1jw4rp1KUxqgqang=",
+        "https://example.com/images/pani_puri2.jpg",
+        "https://example.com/images/pani_puri3.jpg",
+        "https://example.com/images/pani_puri4.jpg"
+      ],
+      "price": 50,
+      "rating": 4.8,
+      "quantity": 1
+    },
+    {
+      "id": "100",
+      "dish_name": "Dahi Puri",
+      "category": "Street Food",
+      "description": "Crispy puris filled with yogurt and chutneys.",
+      "images": [
+        "https://media.istockphoto.com/id/1314802039/photo/forehead-castle-chat.jpg?s=2048x2048&w=is&k=20&c=9nv1BPXkGvysknxTakev_sRTnVW59lndlLAbwE8swPM=",
+        "https://example.com/images/dahi_puri2.jpg",
+        "https://example.com/images/dahi_puri3.jpg",
+        "https://example.com/images/dahi_puri4.jpg"
+      ],
+      "price": 60,
+      "rating": 4.7,
+      "quantity": 1
+    }
+  ]

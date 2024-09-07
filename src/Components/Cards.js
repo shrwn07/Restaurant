@@ -39,7 +39,7 @@ const Cards = () => {
       }
     
   };
-  if (!Array.isArray(filterData) || filterData.length === 0) {
+  if (!Array.isArray(products) || products.length === 0) {
     return (
       <div className="h-screen w-full flex justify-center items-center">
         <CircularProgress />
@@ -48,7 +48,7 @@ const Cards = () => {
   }
   return (
     <div className="text-white p-4 flex justify-center md:justify-between items-center gap-6 mt-4 flex-wrap md:px-10">
-      {filterData.map((items) => (
+      {products.map((items) => (
         <div
           className="h-96 w-72 bg-slate-100 rounded-md overflow-hidden hover:scale-110"
           key={items.id}

@@ -1,8 +1,30 @@
 import './style.css'
+import { useEffect } from 'react';
 import {Link} from 'react-router-dom';
-
+import axios from "axios"
 
 function RegisterPage(){
+  useEffect(() => {
+    async function postRegister(newUser){
+      try {
+        const response = await axios.post("http://localhost:3001/api/register",{
+          method : "POST",
+          headers : {
+            "content-type" : "application/json",
+          },
+          body : JSON.stringify(newUser)
+        })
+
+        if(response.ok){
+
+        }
+      } catch (error) {
+        
+      }
+    }
+    postRegister()
+  }, [])
+  
 
 return(
   <>
